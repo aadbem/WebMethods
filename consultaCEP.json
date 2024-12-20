@@ -1,0 +1,8 @@
+{
+    "status": 0,
+    "message": "consultaCEP executed successfully.",
+    "pipeline": {
+        "cep": "06110060"
+    },
+    "correlationID": "73114610-77c1-445d-8e78-4ec4cd5caa0c"
+}
